@@ -1,0 +1,12 @@
+[population]
+size1 = 20
+size2 = 100
+size3 = 150
+alpha = 0.7
+scope_min = -10
+scope_max = 10
+mutation_rate = 0.2
+
+[algoritam]
+max_iteracija = 500
+broj_ponavljanja = 3
